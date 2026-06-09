@@ -1,0 +1,219 @@
+<mxfile host="app.diagrams.net" pages="4">
+  <diagram name="AS IS" id="k5Qc0rUh31A9245muIVA">
+    <mxGraphModel dx="860" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="shape=ellipse;fillColor=#dae8fc;strokeColor=#6c8ebf" value="Analista / Consultor" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="shape=rectangle;fillColor=#fff2cc;strokeColor=#d6b656" value="SAP for Me" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="1" style="shape=rectangle;fillColor=#d5e8d4;strokeColor=#82b366" value="Seleciona Cliente / Projeto" vertex="1">
+          <mxGeometry height="60" width="160" x="400" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="1" style="shape=rectangle;fillColor=#f8cecc;strokeColor=#b85450" value="Consulta cada chamado manualmente" vertex="1">
+          <mxGeometry height="60" width="180" x="600" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6" parent="1" style="shape=rectangle;fillColor=#e1d5e7;strokeColor=#9673a6" value="Registra e compartilha informações" vertex="1">
+          <mxGeometry height="60" width="180" x="820" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10" edge="1" parent="1" source="5" target="6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="TO BE" id="-6YZ1XuoRscu2LouyYVK">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="shape=ellipse;fillColor=#dae8fc;strokeColor=#6c8ebf" value="Analista / Consultor" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="shape=rectangle;fillColor=#fff2cc;strokeColor=#d6b656" value="SAP Support Monitoring (Dashboard Web)" vertex="1">
+          <mxGeometry height="60" width="200" x="220" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="1" style="shape=rectangle;fillColor=#d5e8d4;strokeColor=#82b366" value="SAP for Me" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="1" style="shape=cylinder;fillColor=#f8cecc;strokeColor=#b85450" value="Armazenamento Centralizado" vertex="1">
+          <mxGeometry height="60" width="180" x="640" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="AS IS" id="FWoYUr1ct2VJG-VGgKJB">
+    <mxGraphModel dx="860" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WBurekS1yKeLLYLqxk5u-29" edge="1" parent="1" source="WBurekS1yKeLLYLqxk5u-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WBurekS1yKeLLYLqxk5u-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="220" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-30" edge="1" parent="1" source="WBurekS1yKeLLYLqxk5u-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WBurekS1yKeLLYLqxk5u-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Acessar o SAP for Me" vertex="1">
+          <mxGeometry height="60" width="140" x="380" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-31" edge="1" parent="1" source="WBurekS1yKeLLYLqxk5u-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WBurekS1yKeLLYLqxk5u-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Selecionar S-User" vertex="1">
+          <mxGeometry height="60" width="140" x="560" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-32" edge="1" parent="1" source="WBurekS1yKeLLYLqxk5u-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WBurekS1yKeLLYLqxk5u-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Selecionar Cliente e Projeto" vertex="1">
+          <mxGeometry height="60" width="140" x="740" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-34" edge="1" parent="1" source="WBurekS1yKeLLYLqxk5u-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WBurekS1yKeLLYLqxk5u-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Consultar Chamados (Cases/Services)" vertex="1">
+          <mxGeometry height="60" width="140" x="920" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-35" edge="1" parent="1" source="WBurekS1yKeLLYLqxk5u-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WBurekS1yKeLLYLqxk5u-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-37" edge="1" parent="1" source="WBurekS1yKeLLYLqxk5u-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WBurekS1yKeLLYLqxk5u-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-19" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Existem novidades?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="1120" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Fim" vertex="1">
+          <mxGeometry height="80" width="120" x="1270" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-47" edge="1" parent="1" source="WBurekS1yKeLLYLqxk5u-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Exibe lista de chamados e detalhes" vertex="1">
+          <mxGeometry height="60" width="140" x="920" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-38" edge="1" parent="1" source="WBurekS1yKeLLYLqxk5u-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WBurekS1yKeLLYLqxk5u-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Verificar alterações de status, comentários e respostas" vertex="1">
+          <mxGeometry height="60" width="140" x="1090" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-39" edge="1" parent="1" source="WBurekS1yKeLLYLqxk5u-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WBurekS1yKeLLYLqxk5u-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Analisar histórico e acompanhar tratativas" vertex="1">
+          <mxGeometry height="60" width="140" x="1090" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-40" edge="1" parent="1" source="WBurekS1yKeLLYLqxk5u-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WBurekS1yKeLLYLqxk5u-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-42" edge="1" parent="1" source="WBurekS1yKeLLYLqxk5u-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WBurekS1yKeLLYLqxk5u-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-24" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Ação Necessária?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="970" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-44" edge="1" parent="1" source="WBurekS1yKeLLYLqxk5u-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WBurekS1yKeLLYLqxk5u-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Tomar ação / Seguir com tratativas internas ou com a SAP&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="770" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Fim" vertex="1">
+          <mxGeometry height="65" width="90" x="965" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-33" edge="1" parent="1" source="WBurekS1yKeLLYLqxk5u-21" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="WBurekS1yKeLLYLqxk5u-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="950" y="230" as="sourcePoint" />
+            <mxPoint x="1000" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Não" vertex="1">
+          <mxGeometry height="30" width="60" x="1200" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Não" vertex="1">
+          <mxGeometry height="30" width="60" x="1000" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-43" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Fim" vertex="1">
+          <mxGeometry height="65" width="90" x="800" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="WBurekS1yKeLLYLqxk5u-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sim" vertex="1">
+          <mxGeometry height="30" width="60" x="1140" y="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="TO BE" id="0trRollc7NLshxw40wmq">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="shape=ellipse;fillColor=#dae8fc;strokeColor=#6c8ebf" value="Início do acompanhamento automatizado" vertex="1">
+          <mxGeometry height="60" width="220" x="40" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="shape=rectangle;fillColor=#fff2cc;strokeColor=#d6b656" value="SAP Support Monitoring verifica chamados automaticamente" vertex="1">
+          <mxGeometry height="60" width="300" x="300" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="1" style="shape=rectangle;fillColor=#d5e8d4;strokeColor=#82b366" value="Integração com SAP for Me e coleta de dados" vertex="1">
+          <mxGeometry height="60" width="300" x="640" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="1" style="shape=rhombus;fillColor=#ffffff;strokeColor=#000000" value="Existe nova atualização?" vertex="1">
+          <mxGeometry height="80" width="200" x="1000" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6" parent="1" style="shape=rectangle;fillColor=#f8cecc;strokeColor=#b85450" value="Atualiza dashboard centralizado e envia notificações" vertex="1">
+          <mxGeometry height="60" width="280" x="1240" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7" parent="1" style="shape=cylinder;fillColor=#e1d5e7;strokeColor=#9673a6" value="Armazenamento histórico de chamados" vertex="1">
+          <mxGeometry height="60" width="240" x="1580" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="1" style="shape=ellipse;fillColor=#dae8fc;strokeColor=#6c8ebf" value="Fim do acompanhamento automatizado" vertex="1">
+          <mxGeometry height="60" width="260" x="1840" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="11" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12" edge="1" parent="1" source="5" target="6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13" edge="1" parent="1" source="6" target="7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14" edge="1" parent="1" source="7" target="8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
